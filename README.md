@@ -6,10 +6,6 @@ Front End:
 * CSS3
 * Javascript + React
 
-Back End:
-* Node Server: Node.js, Express.js
-* Database: PostgreSQL
-
 ## To create your own:
 1. Clone this repo
 2. Run `npm install`
