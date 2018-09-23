@@ -1,6 +1,7 @@
 # SmartBrain - v1
-## Face Recognition Web App
+Face Recognition Web App
 
+## To create your own:
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
