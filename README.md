@@ -1,5 +1,4 @@
-# SmartBrain
-Face Recognition Web App
+# SmartBrain - Face Recognition Web App
 
 Front End:
 * HTML5
