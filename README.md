@@ -1,4 +1,4 @@
-# SmartBrain - v1
+# SmartBrain - Front end
 Face Recognition Web App
 
 ## To create your own:
