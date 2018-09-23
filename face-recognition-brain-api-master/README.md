@@ -1,4 +1,4 @@
-# SmartBrain-api - v1
+# SmartBrain api
 Back End:
 * Node Server: Node.js, Express.js
 * Database: PostgreSQL
