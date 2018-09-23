@@ -14,5 +14,6 @@ Back End:
 2. Run `npm install`
 3. Run `npm start`
 4. You must add your own API key in the `src/App.js` file to connect to Clarifai.
+5. Deploy on Heroku
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
