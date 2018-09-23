@@ -1,5 +1,12 @@
-# SmartBrain - v1
+# SmartBrain
+Face Recognition Web App
 
+Front End:
+* HTML5
+* CSS3
+* Javascript + React
+
+## To create your own:
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
